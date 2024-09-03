@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="48dp">
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/gemini"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="104dp"
+            android:text="Gemini Pro" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/gemini2"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="201dp"
+            android:text="Mistral 7B" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/gemini3"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="306dp"
+            android:text="Vertex AI - Gemini" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/gemini4"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="546dp"
+            android:text="OpenAI ChatGPT-V" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/vision"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="16dp"
+
+            android:text="Gemini Pro Vision" />
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

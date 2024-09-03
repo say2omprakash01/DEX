@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DEX" parent="Theme.Material3.DayNight.NoActionBar">
+         <item name="colorOnPrimary">@color/oceanic_blue</item>
+    </style>
+</resources>

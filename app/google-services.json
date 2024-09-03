@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062919463307",
+    "project_id": "dexa-e5ea1",
+    "storage_bucket": "dexa-e5ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062919463307:android:25ae2b7ff811e9f985cf8e",
+        "android_client_info": {
+          "package_name": "com.dwaipayan.dex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjoVVacGYVUjt_5qc88ybIWu1dJ5Q0p6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
